@@ -36,4 +36,14 @@
     border: none;
     margin-top: 30px;
 }
+
+
+/* S21 Ultra */
+@media (min-width: 576px) {
+
+    
+
+}
+
+
 </style>
